@@ -1,5 +1,5 @@
 <template>
-    <section class="">
+    <section class="hidden">
         <div class="justify-center mt-5">
             <div class="text-center flex w-[400px] h-[30px] bg-gray-700 border border-blue-600 mx-auto ">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 p-2 text-white">
